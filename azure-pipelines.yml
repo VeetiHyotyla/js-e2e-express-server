@@ -45,5 +45,5 @@ steps:
   inputs:
     azureSubscription: 'Azure Connection'
     appType: 'webApp'
-    appName: 'pojala-exercise-12'
+    appName: 'vhyoty-exercise-12'
     package: '$(System.ArtifactsDirectory)/drop/js-e2e-express-server.zip'
